@@ -1,8 +1,7 @@
 body{
     font-family: 'Island Moments', cursive;
-font-family: 'Poppins', sans-serif;
-margin: 0px;
-padding: 0px;
+    font-family: 'Poppins', sans-serif;
+
 }
 .hedding h1{
     font-size: 50px;
@@ -20,7 +19,7 @@ padding: 0px;
     padding-left: 5px;
 }
 .head-2 img{
-    width: 60%;
+    width: 70%;
     
 }
 .head-2 p{
@@ -85,3 +84,13 @@ padding: 0px;
 }
 
 /*End Step*/
+.middle{
+    display: flex;
+}
+.middle-img{
+    background-image: url(../images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 300px 200px;
+    padding: 25px
+}
