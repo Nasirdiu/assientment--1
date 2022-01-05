@@ -1,0 +1,15 @@
+body{
+    font-family: 'Island Moments', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.span{
+    color: orange;
+}
+.buttion{
+    text-decoration: none;
+    background-image: linear-gradient(green,red);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: paleturquoise;
+    font-weight: 700px;
+}
