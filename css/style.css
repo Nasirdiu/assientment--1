@@ -1,11 +1,18 @@
 body{
     font-family: 'Island Moments', cursive;
     font-family: 'Poppins', sans-serif;
+    background-color: rgb(214, 190, 190);
 
 }
+.hedding{
+    border-left: 5px solid rgb(198, 23, 204);
+}
 .hedding h1{
-    font-size: 50px;
-    
+    font-size: 35px;    
+}
+.hedding-text{
+
+    font-size: 20px;
 }
 .span{
     color: orange;
@@ -13,6 +20,7 @@ body{
 .head{
     display: flex;
     margin-bottom: 100px;
+    
 }
 .head-2{
     width: 50%;
@@ -22,9 +30,6 @@ body{
     width: 70%;
     
 }
-.head-2 p{
-    text-align: justify;
-}
 
 .buttion{
     text-decoration: none;
@@ -32,14 +37,14 @@ body{
     border-radius: 5px;
     padding: 5px 10px;
     color: paleturquoise;
-    font-weight: 700px;
+    
 }
 
 /*End Step*/
 
 .body-2{
     text-align: center;
-    font-size: 30px;
+    font-size: 30px; 
 }
 .span-2{
     color: orange;
@@ -50,38 +55,32 @@ body{
     margin-bottom: 100px;
 
 }
+.body-image img{
+    width: 30%;
+}
 .body-4{
     border-radius: 5px;
-    border: 0px solid gray;
-    padding: 5px;
-    margin: 20px;
+    border: 0px solid gray;  
+    margin: 50px;
     background-image: linear-gradient(rgb(193, 217, 245),rgb(139, 226, 226))
     
 }
-.body-4 img{
-    width: 30%;
-}
+
 .body-5{
     border-radius: 5px;
-    border: 0px solid gray;
-    padding: 5px;
-    margin: 20px;
+    border: 0px solid gray;  
+    margin: 50px;  
     background-image: linear-gradient(rgb(236, 118, 230),rgb(29, 163, 89))
     
 }
-.body-5 img{
-    width: 30%;
-}
+
 .body-6{
     border-radius: 5px;
     border: 0px solid gray;
-    padding: 10px;
-    margin: 20px;
+    margin: 50px;
     background-image: linear-gradient(rgb(75, 158, 226),rgb(186, 230, 145))
 }
-.body-6 img{
-    width: 30%;
-}
+
 
 /*End Step*/
 .middle{
@@ -93,6 +92,7 @@ body{
     background-position: left;
     background-size: 300px 200px;
     padding: 25px
+    
 }
 /*End Step*/
 
@@ -104,13 +104,18 @@ body{
     padding: 10px;
 }
 /*End Step*/
+marquee{
+    color: blueviolet;
+}
 .fotter {
     background-color: black;
     text-align: center;
-    background-image: linear-gradient(rgb(152, 216, 197) , rgb(241, 115, 92));
+    background-image: linear-gradient(rgb(62, 233, 76) , rgb(172, 48, 26));
 }
+
 .span-2{
     color: rgb(96, 96, 228);
 }
+
 
 /*End Step*/
