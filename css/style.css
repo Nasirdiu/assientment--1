@@ -1,10 +1,31 @@
 body{
     font-family: 'Island Moments', cursive;
 font-family: 'Poppins', sans-serif;
+margin: 0px;
+padding: 0px;
+}
+.hedding h1{
+    font-size: 50px;
 }
 .span{
     color: orange;
 }
+.head{
+    display: flex;
+    margin-bottom: 100px;
+}
+.head-2{
+    width: 50%;
+    padding-left: 5px;
+}
+.head-2 img{
+    width: 60%;
+    
+}
+.head-2 p{
+    text-align: justify;
+}
+
 .buttion{
     text-decoration: none;
     background-image: linear-gradient(green,red);
@@ -13,3 +34,8 @@ font-family: 'Poppins', sans-serif;
     color: paleturquoise;
     font-weight: 700px;
 }
+
+/*End Step*/
+
+
+
