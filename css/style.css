@@ -94,3 +94,23 @@ body{
     background-size: 300px 200px;
     padding: 25px
 }
+/*End Step*/
+
+.fourth{
+    background-image: url(../images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px 150px;
+    background-position: right;
+    padding: 10px;
+}
+/*End Step*/
+.fotter {
+    background-color: black;
+    text-align: center;
+    background-image: linear-gradient(rgb(152, 216, 197) , rgb(241, 115, 92));
+}
+.span-2{
+    color: rgb(96, 96, 228);
+}
+
+/*End Step*/
