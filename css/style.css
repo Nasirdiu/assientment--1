@@ -6,6 +6,7 @@ padding: 0px;
 }
 .hedding h1{
     font-size: 50px;
+    
 }
 .span{
     color: orange;
@@ -37,5 +38,50 @@ padding: 0px;
 
 /*End Step*/
 
+.body-2{
+    text-align: center;
+    font-size: 30px;
+}
+.span-2{
+    color: orange;
+    text-align: center;
+}
+.body-3{
+    display: flex;
+    margin-bottom: 100px;
 
+}
+.body-4{
+    border-radius: 5px;
+    border: 0px solid gray;
+    padding: 5px;
+    margin: 20px;
+    background-image: linear-gradient(rgb(193, 217, 245),rgb(139, 226, 226))
+    
+}
+.body-4 img{
+    width: 30%;
+}
+.body-5{
+    border-radius: 5px;
+    border: 0px solid gray;
+    padding: 5px;
+    margin: 20px;
+    background-image: linear-gradient(rgb(236, 118, 230),rgb(29, 163, 89))
+    
+}
+.body-5 img{
+    width: 30%;
+}
+.body-6{
+    border-radius: 5px;
+    border: 0px solid gray;
+    padding: 10px;
+    margin: 20px;
+    background-image: linear-gradient(rgb(75, 158, 226),rgb(186, 230, 145))
+}
+.body-6 img{
+    width: 30%;
+}
 
+/*End Step*/
