@@ -89,24 +89,37 @@ body{
 .middle-img{
     background-image: url(../images/shape-1.png);
     background-repeat: no-repeat;
-    background-position: left;
-    background-size: 300px 200px;
+    background-position: left ;
+    background-size: 200px 200px;
     padding: 25px
     
 }
 .middle-images img{
-    width: 60%;
+    width: 50%;
+    margin-left: 40px;
 }
+
 
 /*End Step*/
 
 .fourth{
     background-image: url(../images/shape-1.png);
     background-repeat: no-repeat;
-    background-size: 300px 150px;
-    background-position: right;
+    background-size: 200px 200px;
+    background-position: right bottom;
     padding: 10px;
+    
+    
 }
+.fourth-images img{
+    width: 50%;
+    margin-left: 250px;
+}
+.fourth-images{
+    width: 50%;
+    padding-left: 5px;
+}
+
 /*End Step*/
 marquee{
     color: blueviolet;
@@ -114,7 +127,7 @@ marquee{
 .fotter {
     background-color: black;
     text-align: center;
-    background-image: linear-gradient(rgb(225, 243, 226) , rgb(243, 201, 193));
+    background-image: linear-gradient(rgb(234, 239, 240) , rgb(255, 211, 202));
 }
 
 .span-2{
