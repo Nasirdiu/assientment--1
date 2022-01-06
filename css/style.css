@@ -68,8 +68,9 @@ body{
     background-image: linear-gradient(rgb(206, 218, 231),rgb(199, 221, 221));
     
 }
-.body-para p{
-    padding: 5px;
+.body-para {
+    padding: 10px;
+    text-align: justify;
     
 }
 
