@@ -52,15 +52,17 @@ body{
     display: flex;
     margin-bottom: 100px;
     
+    
 
 }
 .body-image img{
     width: 60%;
-    height: 190px;
-    padding: 50px;
+    height: 190px;    
+
 }
 .body-4{
-    border-radius: 5px;
+    
+    border-radius: 25px;
     border: 0px solid gray;  
     margin: 50px;
     background-image: linear-gradient(rgb(206, 218, 231),rgb(199, 221, 221));
@@ -72,7 +74,7 @@ body{
 }
 
 .body-5{
-    border-radius: 5px;
+    border-radius: 25px;
     border: 0px solid gray;  
     margin: 50px; 
     background-image: linear-gradient(rgb(247, 197, 244),rgb(236, 241, 214))
@@ -80,7 +82,8 @@ body{
 }
 
 .body-6{
-    border-radius: 5px;
+    
+    border-radius: 25px;
     border: 0px solid gray;
     margin: 50px;
     background-image: linear-gradient(rgb(205, 224, 240),rgb(247, 234, 161))
