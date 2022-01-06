@@ -1,7 +1,7 @@
 body{
     font-family: 'Island Moments', cursive;
     font-family: 'Poppins', sans-serif;
-    background-color: rgba(235, 211, 211, 0.952);
+    background-color: whitesmoke;
 
 }
 .hedding{
@@ -33,7 +33,7 @@ body{
 
 .buttion{
     text-decoration: none;
-    background-image: linear-gradient(green,red);
+    background-image: linear-gradient(rgb(240, 181, 71),rgb(177, 50, 28));
     border-radius: 5px;
     padding: 5px 10px;
     color: paleturquoise;
