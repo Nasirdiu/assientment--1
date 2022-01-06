@@ -51,23 +51,30 @@ body{
 .body-3{
     display: flex;
     margin-bottom: 100px;
+    
 
 }
 .body-image img{
-    width: 40%;
+    width: 60%;
+    height: 190px;
+    padding: 50px;
 }
 .body-4{
     border-radius: 5px;
     border: 0px solid gray;  
     margin: 50px;
-    background-image: linear-gradient(rgb(206, 218, 231),rgb(199, 221, 221))
+    background-image: linear-gradient(rgb(206, 218, 231),rgb(199, 221, 221));
+    
+}
+.body-para p{
+    padding: 5px;
     
 }
 
 .body-5{
     border-radius: 5px;
     border: 0px solid gray;  
-    margin: 50px;  
+    margin: 50px; 
     background-image: linear-gradient(rgb(247, 197, 244),rgb(236, 241, 214))
     
 }
@@ -119,9 +126,7 @@ body{
 }
 
 /*End Step*/
-marquee{
-    color: blueviolet;
-}
+
 .fotter {
     background-color: black;
     text-align: center;
@@ -131,7 +136,4 @@ marquee{
 .fotter h1{
     font-family: 'Lobster', cursive;    
 }
-
-
-
 /*End Step*/
