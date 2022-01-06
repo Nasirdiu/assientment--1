@@ -14,9 +14,10 @@ body{
 
     font-size: 20px;
 }
-.span{
-    color: orange;
+.span-2{
+    color: rgb(96, 96, 228);
 }
+
 .head{
     display: flex;
     margin-bottom: 100px;
@@ -46,10 +47,7 @@ body{
     text-align: center;
     font-size: 30px; 
 }
-.span-2{
-    color: orange;
-    text-align: center;
-}
+
 .body-3{
     display: flex;
     margin-bottom: 100px;
@@ -127,12 +125,13 @@ marquee{
 .fotter {
     background-color: black;
     text-align: center;
-    background-image: linear-gradient(rgb(234, 239, 240) , rgb(255, 211, 202));
+    background-image: linear-gradient(rgb(234, 239, 240) , rgb(255, 211, 202));  
+    
+}
+.fotter h1{
+    font-family: 'Lobster', cursive;    
 }
 
-.span-2{
-    color: rgb(96, 96, 228);
-}
 
 
 /*End Step*/
