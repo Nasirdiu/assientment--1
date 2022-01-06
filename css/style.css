@@ -27,7 +27,7 @@ body{
     padding-left: 5px;
 }
 .head-2 img{
-    width: 70%;
+    width: 50%;
     
 }
 
@@ -62,7 +62,7 @@ body{
     border-radius: 5px;
     border: 0px solid gray;  
     margin: 50px;
-    background-image: linear-gradient(rgb(193, 217, 245),rgb(139, 226, 226))
+    background-image: linear-gradient(rgb(206, 218, 231),rgb(199, 221, 221))
     
 }
 
@@ -70,7 +70,7 @@ body{
     border-radius: 5px;
     border: 0px solid gray;  
     margin: 50px;  
-    background-image: linear-gradient(rgb(236, 118, 230),rgb(29, 163, 89))
+    background-image: linear-gradient(rgb(247, 197, 244),rgb(236, 241, 214))
     
 }
 
@@ -78,7 +78,7 @@ body{
     border-radius: 5px;
     border: 0px solid gray;
     margin: 50px;
-    background-image: linear-gradient(rgb(75, 158, 226),rgb(186, 230, 145))
+    background-image: linear-gradient(rgb(205, 224, 240),rgb(247, 234, 161))
 }
 
 
@@ -94,6 +94,10 @@ body{
     padding: 25px
     
 }
+.middle-images img{
+    width: 60%;
+}
+
 /*End Step*/
 
 .fourth{
@@ -110,7 +114,7 @@ marquee{
 .fotter {
     background-color: black;
     text-align: center;
-    background-image: linear-gradient(rgb(62, 233, 76) , rgb(172, 48, 26));
+    background-image: linear-gradient(rgb(225, 243, 226) , rgb(243, 201, 193));
 }
 
 .span-2{
